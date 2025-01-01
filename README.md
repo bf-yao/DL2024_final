@@ -1,2 +1,5 @@
 # DL2024_final
-深度學習2024 期末報告 主題:Kaggle 第8組
+深度學習2024 期末報告 第8組
+主題 : **Kaggle Competition : 
+CIDAUT AI Fake Scene Classification 2024
+**
